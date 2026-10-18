@@ -5,11 +5,11 @@
     "name": "光感液态",
     "description": "iOS 26 的液态玻璃质感移植到了手环上，3 种时钟样式配 4 张壁纸，可随时切换，后续还会继续补充壁纸。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
